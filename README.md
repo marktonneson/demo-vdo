@@ -97,6 +97,7 @@ Check the number of times a recovery has been performed:
 ```
 
 ### References and Resources
+* [RHEL 9 Documentation](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/9/html/deduplicating_and_compressing_logical_volumes_on_rhel/index)
 * [RHEL 8 Documentation](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/deduplicating_and_compressing_storage/index)
 * [RHEL 7 Documentation](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/storage_administration_guide/vdo)
 * [Red Hat Labs - VDO](https://lab.redhat.com/vdo-configure)
